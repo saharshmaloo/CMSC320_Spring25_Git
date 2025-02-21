@@ -9,3 +9,7 @@ Answer: Healthcare, an analysis of patient data could be used for testing
 Q3: What is the difference between Merging and Rebasing?
 
 Answer: Merging creates a new merge commit, rebasing rewrites commit history
+
+Q4: What are you looking forward to this semester?
+
+Answer: Personal projects

@@ -5,3 +5,7 @@ Answer: In order to collaborate on coding projects
 Q2: What field could data science be applied to? Give an Example.
 
 Answer: Healthcare, an analysis of patient data could be used for testing
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Merging creates a new merge commit, rebasing rewrites commit history
